@@ -1,0 +1,65 @@
+{
+    "title": "Erfaring",
+    "biotitle": "Bio",
+    "bio": {
+        "title": "Om meg",
+        "study": "Studerer IT & informasjonsystemer på Universitetet i Agder"
+    },
+    "experience": [
+        {
+            "title": "Universitetet i Agder",
+            "year": "2023",
+            "prosjekter": [
+                {
+                    "prosjekt": {
+                        "field": "IS-211 Algoritmer og datastrukturer",
+                        "tasks": "Administrativt arbeid med å lage og rette innleveringer, finne materiale til forelesninger og workshops."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Norkart",
+            "year": "2022-2023",
+            "prosjekter": [
+                {
+                    "prosjekt": {
+                        "field": "Sensorteknologi i havn",
+                        "tasks": "Digitalisering av norske havner. Tjenestedesign og behovskartlegging gjennom tett kommunikasjon med norske havner. Prototyping av en nettside med visuell fremstilling av behov, utviklet i JavaScript med Threejs. Skrevet to rapporter som del av prosjektet"
+                    }
+                },
+                {
+                    "prosjekt": {
+                        "field": "Summer intern, Sensor til samfunn",
+                        "tasks": "Smartbyer, digitalisering i kommuner. Utvikling av nettside i React og Cesiumjs for å fremstille sensordata fra et API i Azure."
+                    }
+                },
+                {
+                    "prosjekt": {
+                        "field": "Praksisprosjekt, Matkart DayOfWeek",
+                        "tasks": "System for å visualisere aktører i kart med datapunkter og avstandsberegning utviklet med leafletjs."
+                    }
+                },
+                {
+                    "prosjekt": {
+                        "field": "Bacheloroppgave V/A Sensordata",
+                        "tasks": "Uthenting og generering av sensordata fra pumpestasjoner i .NET fremvist i et kart."
+                    }
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "title": "Personlig erfaring",
+        "options": [
+            {
+                "skill": "Teamwork",
+                "number": 75
+            },
+            {
+                "skill": "Programmering",
+                "number": 100
+            }
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Low Poly Style Earth 3D Model Flatshaded
+* source:	https://sketchfab.com/3d-models/low-poly-style-earth-3d-model-flatshaded-a80f6a01678c4b528efdddb37b730ffc
+* author:	Denys Almaral (https://sketchfab.com/denysalmaral)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

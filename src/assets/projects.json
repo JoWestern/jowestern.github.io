@@ -1,0 +1,39 @@
+{
+    "title": "Prosjekter",
+    "year": "",
+    "links": [
+        {
+            "name": "Sensorteknologi i havn",
+            "info": "Prosjektet «Norsk digital havneinfrastruktur» har hatt som mål å utvikle en felles digital infrastruktur for alle norske havner. Til grunn for prosjektsatsningen ligger kompetanse og teknologi som ble utviklet gjennom Kartverkets prosjekt «Havnedata 2020» og to prosjekter under “Kystverkets havnesamarbeid» fra 2020. Disse initiativene ble samlet i en fase 2.0 – for gjennomføring av prosjektet «Norsk digital havneinfrastruktur». Ni havner (dataeiere og brukere), samt Kartverket gikk sammen om å etablere en helhetlig løsning som skal ut til alle norske havner. I prosjektet utviklet jeg en nettside og var med på å skrive to prosjektrapporter som er publisert på projsektets hjemmeside: 'Kartlegging av brukerbehov på sensorer' og 'Valg av teknologier, utfordringer og løsninger.'",
+            "goalTitle": "Målsetningene til prosjektet er:",
+            "goals": [
+                {
+                    "goal": "-å styrke konkurransekraften på sjøfarten i Norge"
+                },
+                {
+                    "goal": "-effektivisere havneoperasjoner for å skape verdi for øvrige logistikkaktører i verdikjeden"
+                },
+                {
+                    "goal": "-etablere en digital datastruktur som grunnmur for daglige operasjonelle verktøy, men også fremtidige autonome havneoperasjoner"
+                },
+                {
+                    "goal": "-bygge noen verdifulle digitale verktøy oppå havnedataene, som effektiviserer og endrer måten havnen drives på"
+                },
+                {
+                    "goal": "-sikre åpne, kvalitetssikrede offentlige data på standardiserte formater som grunnlag for fremtidig privat og offentlig innovasjon"
+                }
+            ],
+            "homepageName": "Norsk digital havneinfrastruktur",
+            "homepage": "https://www.digitalhavneinfrastruktur.no/",
+            "link": "https://sensorteknologi-i-havn.github.io/"
+        },
+        {
+            "name": "Bachelor V/A Sensordata",
+            "info": "Oppgaven består i å nyttiggjøre sensordataene fra vann- og avløpssystemer og vise disse i et kart eller på et dashbord. Utgangspunktet var å konsumere data fra et test-API, og lage en dataflyt for behandling og visualisering av output.",
+            "goalTitle": "",
+            "goals": [{}],
+
+            "link": "https://lemon-forest-09d0afc03.2.azurestaticapps.net/"
+        }
+    ]
+}
